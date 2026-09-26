@@ -1,6 +1,5 @@
 public class Ejercicio2{
-    public static void main(String[] args) {
-        int[][] matriz;
-
+    public static void main (String [] args){
+        
     }
 }
